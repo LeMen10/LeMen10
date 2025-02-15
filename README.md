@@ -43,6 +43,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Mysql-282C34?logo=Mysql&logoColor=4479A1" alt="Mysql logo" title="Mysql" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Rust-282C34?logo=Rust&logoColor=ff3900" alt="Rust logo" title="Rust" height="25" /></span>
+&nbsp;
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
