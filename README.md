@@ -29,7 +29,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Java-282C34?logo=javajava&logoColor=21759B" alt="Java logo" title="Java" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=21759B" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" /></span>
 &nbsp;
